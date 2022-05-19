@@ -26,8 +26,7 @@ No 5) Overrall exprence was very good
 ## SCREENSHOT
 Some Images from this Appliction
 
-<img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Home%20Page.jpg" width="200" height="400" />
-<img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Cart%20Page.jpg" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Home%20Page.jpg" width="200" height="400" />  <img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Cart%20Page.jpg" width="200" height="400" />
 <img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Order%20Page.jpg" width="200" height="400" />
 <img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Update%20page.jpg" width="200" height="400" />
 
