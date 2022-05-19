@@ -30,3 +30,5 @@ Some Images from this Appliction
 <img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Order%20Page.jpg" width="200" height="400" />
 <img src="https://raw.githubusercontent.com/RayFisher-24/Food_Delivery_App/master/Screenshot/Update%20page.jpg" width="200" height="400" />
 
+##DOWNLOAD LINK FOR APK
+https://github.com/RayFisher-24/Food_Delivery_App/blob/master/FoodApp.apk?raw=true
