@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\orders_layout.xml",
+        "source": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\src\\main\\res\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_orders.xml",
+        "source": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\src\\main\\res\\layout\\activity_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\sample_mainfood.xml",
+        "source": "C:\\Users\\ARIJIT\\AndroidStudioProjects\\Application\\FoodDelivery\\app\\src\\main\\res\\layout\\sample_mainfood.xml"
+    }
+]
