@@ -32,4 +32,4 @@ Some Images from this Appliction
 
 ## DOWNLOAD LINK FOR APK
 
-https://github.com/RayFisher-24/Food_Delivery_App/blob/master/FoodApp.apk?raw=true
+https://github.com/RayFisher-24/Food-Delivery-App/blob/master/FoodApp.apk
